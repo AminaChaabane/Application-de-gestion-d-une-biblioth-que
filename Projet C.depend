@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1612691294 source:c:\users\hp\documents\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+	<stdio.h>
+	<stdlib.h>
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+
+1612564791 c:\users\hp\documents\projet c\foncadherent.h
+	"structures.h"
+	"structures.h"
+
+1612008697 c:\users\hp\documents\projet c\structures.h
+
+1612644506 source:c:\users\hp\documents\projet c\foncadherent.c
+	<stdio.h>
+	"FoncAdherent.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+	<stdio.h>
+	"FoncAdherent.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+
+1612557052 source:c:\users\hp\documents\projet c\foncauxiliaires.c
+	<stdio.h>
+	"FoncAuxiliaires.h"
+	<stdio.h>
+	"FoncAuxiliaires.h"
+
+1612557095 c:\users\hp\documents\projet c\foncauxiliaires.h
+	"structures.h"
+	"structures.h"
+
+1612906466 source:c:\users\hp\documents\projet c\fonclivre.c
+	<stdio.h>
+	"FoncLivre.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+	<stdio.h>
+	"FoncLivre.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+
+1612564123 c:\users\hp\documents\projet c\fonclivre.h
+	"structures.h"
+	"structures.h"
+
+1612562280 c:\users\hp\documents\projet c\foncliste.h
+	"structures.h"
+	"structures.h"
+
+1612950059 source:c:\users\hp\documents\projet c\foncliste.c
+	<stdio.h>
+	"FoncListe.h"
+
+1612606692 c:\users\hp\documents\projet c\foncemprunt.h
+	"structures.h"
+	"structures.h"
+
+1612644503 source:c:\users\hp\documents\projet c\foncemprunt.c
+	<stdio.h>
+	"FoncEmprunt.h"
+	"FoncAuxiliaires.h"
+	<stdio.h>
+	"FoncEmprunt.h"
+	"FoncAuxiliaires.h"
+
+1612799101 source:c:\users\hp\documents\projet c\menus.c
+	<stdio.h>
+	"structures.h"
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+	<stdio.h>
+	"structures.h"
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+
+1612644506 source:c:\users\hp\desktop\projet c\foncadherent.c
+	<stdio.h>
+	"FoncAdherent.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+	<stdio.h>
+	"FoncAdherent.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+
+1612564791 c:\users\hp\desktop\projet c\foncadherent.h
+	"structures.h"
+	"structures.h"
+
+1612008697 c:\users\hp\desktop\projet c\structures.h
+
+1612557095 c:\users\hp\desktop\projet c\foncauxiliaires.h
+	"structures.h"
+	"structures.h"
+
+1612562280 c:\users\hp\desktop\projet c\foncliste.h
+	"structures.h"
+	"structures.h"
+
+1612557052 source:c:\users\hp\desktop\projet c\foncauxiliaires.c
+	<stdio.h>
+	"FoncAuxiliaires.h"
+	<stdio.h>
+	"FoncAuxiliaires.h"
+
+1612644503 source:c:\users\hp\desktop\projet c\foncemprunt.c
+	<stdio.h>
+	"FoncEmprunt.h"
+	"FoncAuxiliaires.h"
+	<stdio.h>
+	"FoncEmprunt.h"
+	"FoncAuxiliaires.h"
+
+1612606692 c:\users\hp\desktop\projet c\foncemprunt.h
+	"structures.h"
+	"structures.h"
+
+1612644504 source:c:\users\hp\desktop\projet c\foncliste.c
+	<stdio.h>
+	"FoncListe.h"
+	<stdio.h>
+	"FoncListe.h"
+
+1612644505 source:c:\users\hp\desktop\projet c\fonclivre.c
+	<stdio.h>
+	"FoncLivre.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+	<stdio.h>
+	"FoncLivre.h"
+	"FoncAuxiliaires.h"
+	"FoncListe.h"
+
+1612564123 c:\users\hp\desktop\projet c\fonclivre.h
+	"structures.h"
+	"structures.h"
+
+1612691294 source:c:\users\hp\desktop\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+	<stdio.h>
+	<stdlib.h>
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+
+1612691353 source:c:\users\hp\desktop\projet c\menus.c
+	<stdio.h>
+	"structures.h"
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+	<stdio.h>
+	"structures.h"
+	"FoncAdherent.h"
+	"FoncLivre.h"
+	"FoncEmprunt.h"
+
